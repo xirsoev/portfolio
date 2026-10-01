@@ -1,22 +1,58 @@
-### 🏠 NESTA — Real Estate Platform
+<div align="center">
 
-A modern real estate web application for browsing and managing properties.
+# Портфолио
 
-**Tech Stack**
+### Подборка моих веб-проектов
+
+Здесь собраны приложения и интерфейсы, над которыми я работал: от панели управления проектами до платформы недвижимости.
+
+[Мой GitHub](https://github.com/xirsoev) · [Все репозитории](https://github.com/xirsoev?tab=repositories)
+
+</div>
+
+---
+
+## Проекты
+
+### 🧩 [DevPanel](https://github.com/xirsoev/DevPanel)
+
+Панель для управления проектами и задачами в одном рабочем пространстве. Помогает следить за статусами, прогрессом и сроками.
+
+**Возможности:** сводка по проектам и задачам, статусы и прогресс, информация о клиентах, регистрация администратора и защищённый вход.
+
+`PHP` `MySQL` `PDO` `HTML` `CSS` `JavaScript`
+
+---
+
+### 🏡 [NESTA](https://github.com/xirsoev/nesta-Website-)
+
+Веб-платформа для поиска и просмотра недвижимости с каталогом объектов и личными функциями для пользователей.
+
+**Возможности:** регистрация и вход, каталог и страницы объектов, избранное, административная панель.
 
 `PHP` `MySQL` `JavaScript` `HTML` `CSS`
 
-**Features**
+---
 
-- 🔐 User registration & authentication
-- 🏡 Property catalog
-- ❤️ Favorites system
-- ⚙️ Admin panel
-- 🗄️ MySQL database
-- 📱 Responsive interface
+### 🍋 [AVERA](https://github.com/xirsoev/AVERA)
 
-<p>
-  <a href="https://github.com/xirsoev/nesta-Website-">
-    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository">
-  </a>
-</p>
+Многостраничный сайт для вымышленного ресторана современной средиземноморской кухни. В проекте есть страницы и материалы для представления меню и ресторана.
+
+`HTML` `CSS` `JavaScript`
+
+---
+
+## Технологии
+
+`PHP` · `MySQL` · `JavaScript` · `HTML` · `CSS`
+
+## Контакты и ссылки
+
+- GitHub: [@xirsoev](https://github.com/xirsoev)
+- Репозиторий этого портфолио: [github.com/xirsoev/portfolio](https://github.com/xirsoev/portfolio)
+
+<div align="center">
+
+_Спасибо, что заглянули!_
+
+</div>
