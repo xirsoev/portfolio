@@ -2,11 +2,11 @@
 
 # Портфолио
 
-### Подборка моих веб-проектов
+### Веб-проекты, в которых идея встречается с интерфейсом
 
-Здесь собраны приложения и интерфейсы, над которыми я работал: от панели управления проектами до платформы недвижимости.
+Четыре проекта — от ресторанного сайта до личного планировщика. Нажмите на название или изображение, чтобы посмотреть проект.
 
-[Мой GitHub](https://github.com/xirsoev) · [Все репозитории](https://github.com/xirsoev?tab=repositories)
+[GitHub · @xirsoev](https://github.com/xirsoev) · [Все репозитории ↗](https://github.com/xirsoev?tab=repositories)
 
 </div>
 
@@ -14,55 +14,48 @@
 
 ## Проекты
 
-### ✨ [LifeOS](https://github.com/xirsoev/lifeos-public) · [Открыть демо](https://lifeos-production-a1a8.up.railway.app/)
+### 🍋 [AVERA ↗](https://github.com/xirsoev/AVERA)
 
-Личное пространство для планирования дня, задач, целей и привычек, с дневником питания, расчётом КБЖУ и ИИ-помощником.
+Сайт ресторана современной средиземноморской кухни: меню, галерея, история и бронирование на русском и английском языках.
 
-**Возможности:** профиль и персональные ориентиры питания, фотооценка блюд, таймер фокуса, история активности, чат с Луми.
-
-`Node.js` `JavaScript` `HTML` `CSS` `Gemini API`
-
----
-
-### 🧩 [DevPanel](https://github.com/xirsoev/DevPanel)
-
-Панель для управления проектами и задачами в одном рабочем пространстве. Помогает следить за статусами, прогрессом и сроками.
-
-**Возможности:** сводка по проектам и задачам, статусы и прогресс, информация о клиентах, регистрация администратора и защищённый вход.
-
-`PHP` `MySQL` `PDO` `HTML` `CSS` `JavaScript`
-
----
-
-### 🏡 [NESTA](https://github.com/xirsoev/nesta-Website-)
-
-Веб-платформа для поиска и просмотра недвижимости с каталогом объектов и личными функциями для пользователей.
-
-**Возможности:** регистрация и вход, каталог и страницы объектов, избранное, административная панель.
-
-`PHP` `MySQL` `JavaScript` `HTML` `CSS`
-
----
-
-### 🍋 [AVERA](https://github.com/xirsoev/AVERA)
-
-Многостраничный сайт для вымышленного ресторана современной средиземноморской кухни. В проекте есть страницы и материалы для представления меню и ресторана.
+[![Главный экран AVERA](assets/avera.png)](https://github.com/xirsoev/AVERA)
 
 `HTML` `CSS` `JavaScript`
 
 ---
 
-## Технологии
+### 🧩 [DevPanel ↗](https://github.com/xirsoev/DevPanel)
 
-`PHP` · `MySQL` · `JavaScript` · `HTML` · `CSS`
+Рабочее пространство для проектов и задач со статусами, сроками, прогрессом и общей панелью активности.
 
-## Контакты и ссылки
+[![Главный экран DevPanel](assets/devpanel.png)](https://github.com/xirsoev/DevPanel)
 
-- GitHub: [@xirsoev](https://github.com/xirsoev)
-- Репозиторий этого портфолио: [github.com/xirsoev/portfolio](https://github.com/xirsoev/portfolio)
+`PHP` `MySQL` `PDO` `JavaScript`
+
+---
+
+### ✨ [LifeOS ↗](https://github.com/xirsoev/lifeos-public) · [Открыть сайт ↗](https://lifeos-production-a1a8.up.railway.app/)
+
+Личное пространство для задач, целей и привычек с фокус-сессиями, дневником питания и помощником Луми.
+
+[![Главный экран LifeOS](assets/lifeos.png)](https://lifeos-production-a1a8.up.railway.app/)
+
+`Node.js` `JavaScript` `Gemini API`
+
+---
+
+### 🏡 [NESTA ↗](https://github.com/xirsoev/nesta-Website-)
+
+Каталог домов и квартир с фильтрами, страницами объектов, избранным и управлением объявлениями.
+
+[![Главный экран NESTA](assets/nesta.png)](https://github.com/xirsoev/nesta-Website-)
+
+`PHP` `MySQL` `JavaScript`
+
+---
 
 <div align="center">
 
-_Спасибо, что заглянули!_
+[Все проекты на GitHub ↗](https://github.com/xirsoev?tab=repositories)
 
 </div>
