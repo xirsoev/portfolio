@@ -14,21 +14,21 @@
 
 ## Проекты
 
-### 🍋 [AVERA ↗](https://github.com/xirsoev/AVERA)
+### 🍋 [AVERA · Открыть сайт ↗](https://avera.kesug.com) · [исходный код](https://github.com/xirsoev/AVERA)
 
 Сайт ресторана современной средиземноморской кухни: меню, галерея, история и бронирование на русском и английском языках.
 
-[![Главный экран AVERA](assets/avera.png)](https://github.com/xirsoev/AVERA)
+[![Главный экран AVERA](assets/avera.png)](https://avera.kesug.com)
 
 `HTML` `CSS` `JavaScript`
 
 ---
 
-### 🧩 [DevPanel ↗](https://github.com/xirsoev/DevPanel)
+### 🧩 [DevPanel · Открыть сайт ↗](https://devpanel.kesug.com) · [исходный код](https://github.com/xirsoev/DevPanel)
 
 Рабочее пространство для проектов и задач со статусами, сроками, прогрессом и общей панелью активности.
 
-[![Главный экран DevPanel](assets/devpanel.png)](https://github.com/xirsoev/DevPanel)
+[![Главный экран DevPanel](assets/devpanel.png)](https://devpanel.kesug.com)
 
 `PHP` `MySQL` `PDO` `JavaScript`
 
@@ -44,11 +44,11 @@
 
 ---
 
-### 🏡 [NESTA ↗](https://github.com/xirsoev/nesta-Website-)
+### 🏡 [NESTA · Открыть сайт ↗](https://nesta.kesug.com) · [исходный код](https://github.com/xirsoev/nesta-Website-)
 
 Каталог домов и квартир с фильтрами, страницами объектов, избранным и управлением объявлениями.
 
-[![Главный экран NESTA](assets/nesta.png)](https://github.com/xirsoev/nesta-Website-)
+[![Главный экран NESTA](assets/nesta.png)](https://nesta.kesug.com)
 
 `PHP` `MySQL` `JavaScript`
 
